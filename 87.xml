@@ -1,0 +1,15 @@
+<?xml version = "1.0" encoding = "utf-8" standalone = "yes"?>
+<!DOCTYPE address [
+<!ELEMENT address (name,company,phone,email)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT company (#PCDATA)>
+<!ELEMENT phone (#PCDATA)>
+<!ELEMENT email (#PCDATA)>
+]>
+
+<address>
+<name>vyom prajapati</name>
+<company>TCS</company>
+<phone>(011) 123-4567</phone>
+<email>vyomprajapati2005</email>
+</address>
